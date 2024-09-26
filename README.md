@@ -35,9 +35,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table align="center">
+<table align="center" width="100%" style="table-layout: fixed;">
   <tr>
-    <td><b>Languages</b></td>
+    <td width="20%"><b>Languages</b></td>
     <td>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
