@@ -132,5 +132,5 @@
 
 <h3 align="center">Thanks for visiting!</h3>
 <p align="center">
-  <img src="https://img.icons8.com/clouds/100/000000/thank-you.png" alt="thank you" width="100" height="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxVNFHdwZl6HV2W4PN-4C64bYa-CB0mFsbNA&s" alt="thank you" width="100" height="100"/>
 </p>
