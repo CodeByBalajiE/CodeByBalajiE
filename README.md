@@ -16,9 +16,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/balajiezhumalai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="balajiezhumalai" height="30" width="40" /></a>
-  <a href="https://instagram.com/balakid114k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="balakid114k" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/m9mma3wdyi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/balajiezhumalai" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="balajiezhumalai" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/balakid114k" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="balakid114k" height="40" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/m9mma3wdyi/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" />
+  </a>
 </p>
 
 ---
