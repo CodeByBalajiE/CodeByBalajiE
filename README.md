@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebybalajie&label=Profile%20views&color=0e75b6&style=flat" alt="codebybalajie" /> </p>
-<meta name="google-site-verification" content="E8smaxtqAX5mwWcHSZeOgvsnzGgier1VebMrR1OdIo8" />
----
 
+---
+<meta name="google-site-verification" content="E8smaxtqAX5mwWcHSZeOgvsnzGgier1VebMrR1OdIo8" />
 - 🔭 I’m currently working on **Blockchain-Based Data Synchronization from Web 2 to Web 3**
 - 🌱 I’m learning **.NET Full Stack Development**
 - 💼 Looking for **internship opportunities**
