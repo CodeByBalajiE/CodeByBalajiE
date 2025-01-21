@@ -19,9 +19,7 @@
   <a href="https://linkedin.com/in/balajiezhumalai" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="balajiezhumalai" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/balakid114k" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="balakid114k" height="40" width="40" />
-  </a>
+ 
   <a href="https://leetcode.com/u/m9mma3wdyi/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" />
   </a>
