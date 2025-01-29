@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/balajiezhumalai" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="20" />
   </a>
-  <a href="https://leetcode.com/u/m9mma3wdyi/" target="_blank">
+  <a href="https://leetcode.com/u/LeetBalajiE//" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20" width="20" />
   </a>
 </p>
