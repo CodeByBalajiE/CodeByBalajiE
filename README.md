@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/balajiezhumalai" target="_blank">
+  <a href="https://www.linkedin.com/in/balajie-it" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" width="20" />
   </a>
-  <a href="https://leetcode.com/u/LeetBalajiE//" target="_blank">
+  <a href="https://leetcode.com/u/balajie_it//" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20" width="20" />
   </a>
 </p>
