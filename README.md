@@ -8,9 +8,8 @@
 ---
 
 - 🔭 I’m currently working on **Blockchain-Based Data Synchronization from Web 2 to Web 3**
-- 🌱 I’m learning **.NET Full Stack Development**
 - 💼 Looking for **internship opportunities**
-- 💬 Ask me about **C, Python, Java, C#**
+- 💬 Ask me about **Java,C, Python**
 - 📫 Reach me at **balajie166@gmail.com**
 
 ---
